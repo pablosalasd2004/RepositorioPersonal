@@ -1,2 +1,2 @@
-# RepositorioPersonal
-Cositas mías
+# Repositorio de Pablo Salas
+Cositas mías y más.
